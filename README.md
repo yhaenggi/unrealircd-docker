@@ -2,7 +2,7 @@ These images have been built and tested on docker amd64, arm32v7 and arm64v8. Th
 
 ## Usage ##
 
-    docker run -d -p 6667:6667/tcp -p 6697:6697/tcp yhaenggi/urealircd:5.2.1.1
+    docker run -d -p 6667:6667/tcp -p 6697:6697/tcp yhaenggi/unrealircd:5.2.1.1
 
 
 ## Build ##
